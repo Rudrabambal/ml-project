@@ -135,5 +135,5 @@ The Jupyter notebook `Drug Recommender using Machine Learning.ipynb` contains:
 This project is open source and available for educational purposes.
 
 ## Contact
-For questions or inquiries, please contact Karan Singh.
+For questions or inquiries, please contact Rudra Bambal.
 
